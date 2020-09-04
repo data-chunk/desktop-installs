@@ -21,3 +21,4 @@ sudo snap install pycharm-community --classic
 sudo snap install atom --classic
 sudo snap install sublime-text --classic
 sudo snap install code-insiders --classic
+sudo snap install docker
